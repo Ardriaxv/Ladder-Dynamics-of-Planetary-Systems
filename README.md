@@ -1,4 +1,4 @@
-[![View Site](https://img.shields.io/badge/Live_Site-Visit-blue)](https://ardriaxv.github.io//)
+[![View Site](https://img.shields.io/badge/Live_Site-Visit-blue)](https://ardriaxv.github.io/Ladder-Dynamics-of-Planetary-Systems/)
 
 # Ladder Dynamics of Planetary Systems
 A Geometric Dynamical Framework for Orbital Architectures
