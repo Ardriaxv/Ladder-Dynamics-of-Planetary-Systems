@@ -7,4 +7,4 @@ This repository contains the white paper Ladder Dynamics of Planetary Systems, w
 
 The full paper includes all motivation, derivations, figures, and examples.
 
-#© 2026 David Hughson All Rights Reserved
+© 2026 David Hughson All Rights Reserved
