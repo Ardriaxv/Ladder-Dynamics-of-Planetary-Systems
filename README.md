@@ -1,3 +1,5 @@
+[![View Site](https://img.shields.io/badge/Live_Site-Visit-blue)](https://ardriaxv.github.io//)
+
 # Ladder Dynamics of Planetary Systems
 A Geometric Dynamical Framework for Orbital Architectures
 This repository contains the white paper “Ladder Dynamics of Planetary Systems: A Geometric Dynamical Framework”, which develops a unified, physics‑driven model for understanding the spacing and structure of planetary systems.
