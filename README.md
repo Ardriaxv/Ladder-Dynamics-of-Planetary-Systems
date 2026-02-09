@@ -6,3 +6,4 @@ A Geometric Dynamical Framework for Orbital Architectures
 This repository contains the white paper Ladder Dynamics of Planetary Systems, which introduces a geometric framework for understanding orbital spacing and system architecture.
 
 The full paper includes all motivation, derivations, figures, and examples.
+© 2026 David Hughson All Rights Reserved
